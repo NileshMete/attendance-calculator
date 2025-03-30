@@ -2,6 +2,7 @@
 
 A responsive web application built with React that simplifies lecture attendance calculation. It provides real-time percentage updates and celebratory confetti when you achieve 75%+ attendance. Deployed seamlessly via GitHub Pages.
 
+❤️ **Made with love by [Nilesh Mete](https://www.linkedin.com/in/nileshmete993088/)**  
 
 ## 🌐 Live Demo
 
