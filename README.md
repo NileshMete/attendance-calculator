@@ -38,9 +38,9 @@ attendance-calculator/
 ├── build/
 ├── public/
 ├── src/
-│   ├── App.css
-│   ├── App.js
-│   └── index.js
+│  ├── App.css
+│  ├── App.js
+│  └── index.js
 ├── package.json
 └── README.md
 🔧 Technologies Used
@@ -72,23 +72,6 @@ JSON
 
 "homepage": "[https://nileshmete.github.io/attendance-calculator](https://nileshmete.github.io/attendance-calculator)",
 "scripts": {
-  "predeploy": "npm run build",
-  "deploy": "gh-pages -d build"
+ "predeploy": "npm run build",
+ "deploy": "gh-pages -d build"
 }
-🤝 Contributing
-Contributions are welcome! Here’s how you can contribute:
-
-Fork the project.
-Create your feature branch: git checkout -b feature/AmazingFeature   
-Commit your changes: git commit -m 'Add some amazing feature'
-Push to the branch: git push origin feature/AmazingFeature
-Open a Pull Request.
-📜 License
-Distributed under the MIT License. See LICENSE for more information.   
-
-📧 Contact
-Nilesh Mete - @YourTwitter - your.email@example.com
-
-Project Link: https://github.com/NileshMete/attendance-calculator
-
-Made with ❤️ by Nilesh Mete
