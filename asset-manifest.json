@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/attendance-calculator/static/css/main.8e0ebbdd.css",
+    "main.js": "/attendance-calculator/static/js/main.8cb5283d.js",
+    "static/js/453.a3ef94d2.chunk.js": "/attendance-calculator/static/js/453.a3ef94d2.chunk.js",
+    "index.html": "/attendance-calculator/index.html",
+    "main.8e0ebbdd.css.map": "/attendance-calculator/static/css/main.8e0ebbdd.css.map",
+    "main.8cb5283d.js.map": "/attendance-calculator/static/js/main.8cb5283d.js.map",
+    "453.a3ef94d2.chunk.js.map": "/attendance-calculator/static/js/453.a3ef94d2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e0ebbdd.css",
+    "static/js/main.8cb5283d.js"
+  ]
+}
